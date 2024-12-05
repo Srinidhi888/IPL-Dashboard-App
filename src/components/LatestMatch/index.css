@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.inner-bg-1 {
+  background-color: #1e293b;
+  padding: 50px;
+  border-radius: 10px;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.image {
+  height: 170px;
+}
+h2 {
+  font-weight: normal;
+}
+.det {
+  text-align: end;
+}

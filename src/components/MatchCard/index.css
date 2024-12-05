@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.team-bg {
+  background-color: #1e293b;
+  padding: 50px;
+  border-radius: 10px;
+  color: white;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  width: 296px;
+}
+.image-1 {
+  height: 120px;
+}
+.heading-1 {
+  font-size: 25px;
+  font-weight: normal;
+}
+.special-lost {
+  color: #e31a1a;
+}
+.special-win {
+  color: #18ed66;
+}
